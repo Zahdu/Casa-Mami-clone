@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.left{
+    display: flex;
+    list-style-type: none;
+    margin-left: 100px;
+    color: #B4A87D;
+}
+.left li{
+    padding-left: 20px;
+    font-size: 10px;
+    margin-top: 75px;
+}
+.right{
+    display: flex;
+    list-style-type: none;
+    margin-right: 150px;
+    color: #B4A87D;
+    
+    
+    
+}
+.right li{
+    padding-left: 20px;
+    font-size: 10px;
+    margin-top: 75px;
+    
+}
+    
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.logo{
+    width: 250px;
+    height: 30px;
+    margin-top: 75px;
+
+}
+.image{
+    height: 600px;
+    width: 100%;
+}
+.word{
+    margin-top: 90px;
+    margin-left: 300px;
+    color: #B4A87D;
+
+}
+.h5{
+    color: #8f8f8f;
+    padding: 20px;
+    margin-left: 80px;
+}
+.para{
+    float: right;
+    color: #B4A87D;
+    margin-right: 70px;
+    margin-top: -70px;
+    
+}
+
+.img1{
+    width: 40%;
+    margin-left: 75px;
+    margin-top: 200px;
+}
+.img2{
+    float: right;
+    width: 30%;
+    margin-right: 200px;
+    margin-top: 120px;
+}
+.cacti{
+    margin-top: 25px;
+    margin-left: 700px;
+    width: 290px;
+}
+.girl{
+    width: 100%;
+    position: relative;
+}
+.text{
+    
+    
+    position: absolute;
+    top: 300%;
+    left: 45%
+    
+
+}
+.button{
+    padding: 20px;
+    cursor: pointer;
+    background: transparent;
+    color: rgb(255, 255, 255);
+    border: 1px solid white;
+    
+}
+.button:hover{
+    background-color: white;
+    color: black;
+}
+.column{
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.women{
+    width: 136%;
+    margin-top: -30px;
+    margin-left: -425px;
+}
+.ftr{
+    margin-left: 500px;
+    width: 300px;
+
+}
+.icon{
+    margin-left: 50%;
+    color: black;
+}
+.icon2{
+    margin-left: 55%;
+    color: black;
+    margin-top: -18px;
+}
+.cap1 {
+    color: #B4A87D;
+    text-align: center;
+    margin-top: -60px;
+    text-decoration: none ;
+}
